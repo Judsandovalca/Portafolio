@@ -5,14 +5,20 @@ export default function About() {
     <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
       <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-          Hi, I'm Reed.
+          Hi, I'm Juan.
           <br className="hidden lg:inline-block" />I love to build amazing
           apps.
         </h1>
         <p className="mb-8 leading-relaxed">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-          laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-          Laborum, voluptas natus?
+          Welcome to my portfolio! I'm Juan David Sandoval,
+          a passionate Computer and Systems Engineer with a degree
+          from the prestigious National University of Colombia.
+          My journey in the world of technology has been both
+          exhilarating and fulfilling, shaped by a deep-rooted
+          curiosity and an unwavering commitment to excellence.
+          Thank you for visiting my portfolio, and I look forward
+          to the possibility of collaborating on future endeavors.  
+          
         </p>
         <div className="flex justify-center">
           <a
