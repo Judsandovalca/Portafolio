@@ -8,6 +8,13 @@ import Testimonials from "./components/Testimonials";
 export default function App() {
   return (
      <main className="text-gray-400 bg-gray-900 body-font">
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPM5MPVK45"></script>
+     <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments)}
+      gtag('js', new Date());
+      gtag('config', 'G-QPM5MPVK45');
+      </script>
       <Navbar />
       <About />
       <Projects />
