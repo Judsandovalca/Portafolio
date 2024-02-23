@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Glowing orbs",
+    subtitle: "Physics",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "small project using css, Javascript and Html",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://codepen.io/Juan-David-Sandoval-Caceres/pen/oNVrGma",
   },
   {
     title: "React Tracks",
